@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rp 99.000Cc Grass 1x1 Mtr Rumput Artifisi_ba685e</name>
+   <tag></tag>
+   <elementGuidId>406adcaa-ac6b-4a13-a641-184414ae9530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='categoryItemList']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.scarab-item > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>21c40152-d2e9-4c09-aaa6-e28ebf26ed78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ruparupa.com/cc-grass-10-mm-rumput-artifisial-1x1-hijau.html?itm_source=product-recommendation-category-pcp-rr&amp;itm_campaign=first-level&amp;itm_device=desktop&amp;itm_term=10374649</value>
+      <webElementGuid>e4d59c9c-b9f4-4d17-89c5-a0ad8f19527d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 99.000Cc Grass 1x1 Mtr Rumput Artifisial - Hijau Instant Delivery4.8 | 8 Ulasan</value>
+      <webElementGuid>660cc3fd-fbdc-4240-b7f1-119da3f43a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;categoryItemList&quot;)/span[@class=&quot;scarab-item&quot;]/a[1]</value>
+      <webElementGuid>f376eaec-5811-4be1-a6af-665458cebbe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='categoryItemList']/span/a</value>
+      <webElementGuid>307b1442-214d-48ff-ba14-959a62b4c96e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Pilihan Untuk Anda'])[1]/following::a[1]</value>
+      <webElementGuid>440703d6-3056-40c1-9da8-a1fe5500ce5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ide dan Inspirasi'])[8]/following::a[1]</value>
+      <webElementGuid>fecfd11e-71ae-4c6c-b74e-ae65aeebcc4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ruparupa.com/cc-grass-10-mm-rumput-artifisial-1x1-hijau.html?itm_source=product-recommendation-category-pcp-rr&amp;itm_campaign=first-level&amp;itm_device=desktop&amp;itm_term=10374649')]</value>
+      <webElementGuid>7591b4b7-3933-4333-876d-824e3cb31cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>2ddeb782-c0bf-42a2-ba62-b6e6150b5972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ruparupa.com/cc-grass-10-mm-rumput-artifisial-1x1-hijau.html?itm_source=product-recommendation-category-pcp-rr&amp;itm_campaign=first-level&amp;itm_device=desktop&amp;itm_term=10374649' and (text() = 'Rp 99.000Cc Grass 1x1 Mtr Rumput Artifisial - Hijau Instant Delivery4.8 | 8 Ulasan' or . = 'Rp 99.000Cc Grass 1x1 Mtr Rumput Artifisial - Hijau Instant Delivery4.8 | 8 Ulasan')]</value>
+      <webElementGuid>13ce3989-bf97-42a6-bf5c-c915adeb2ad3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

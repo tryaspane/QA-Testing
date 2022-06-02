@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lanjut Ke Keranjang</name>
+   <tag></tag>
+   <elementGuidId>d795b61d-207a-4116-b1db-91f0090abad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalSuccessAddToCart']/div/div/div[2]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btn-cart.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9fa1cc66-b3f9-4c46-85aa-bd8e765584d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ruparupa.com/cart</value>
+      <webElementGuid>b0a6a523-84a8-4e53-a6c5-5ebc7ca0758a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-cart bold</value>
+      <webElementGuid>7891d026-27de-4ef1-8353-ebf894c86f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut Ke Keranjang</value>
+      <webElementGuid>0f2a03f3-feda-488b-8203-b214480c2aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalSuccessAddToCart&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;added-to-cart&quot;]/a[@class=&quot;btn btn-primary btn-cart bold&quot;]</value>
+      <webElementGuid>bdb04f9e-4c71-4002-956f-2207664e4558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalSuccessAddToCart']/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>ddde7967-48f7-47a5-8678-f7e41ec41b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lanjut Ke Keranjang')]</value>
+      <webElementGuid>cafca29a-c7dd-40d4-aff3-67d9e633e872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cc Grass 1x1 Mtr Rumput Artifisial - Hijau'])[3]/following::a[1]</value>
+      <webElementGuid>61d67646-4614-42b4-b573-9a48d0420033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil Ditambahkan Ke Keranjang'])[1]/following::a[1]</value>
+      <webElementGuid>0668515a-6aed-4af6-97f3-df27f4cdb83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Belanjaanmu'])[2]/preceding::a[1]</value>
+      <webElementGuid>1a5eb53d-4510-42d9-888b-ca5586d047b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjut Ke Keranjang']/parent::*</value>
+      <webElementGuid>27ab3e96-eb63-4898-b78c-4f3e03a5f431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.ruparupa.com/cart')])[2]</value>
+      <webElementGuid>dbb5ea39-41f2-41ae-b306-ebf3cedc1cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>bee378cd-f255-4ed5-9d85-7b3d60163f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ruparupa.com/cart' and (text() = 'Lanjut Ke Keranjang' or . = 'Lanjut Ke Keranjang')]</value>
+      <webElementGuid>f8f4f766-de2b-4c7f-85e2-c32931c044e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

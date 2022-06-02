@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lanjutkan ke Pembayaran</name>
+   <tag></tag>
+   <elementGuidId>10e26679-ec16-4c6f-8356-5beca757fa52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-m.btn-primary.btn-full.btn-payment</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2f896cef-0148-4b7c-a185-d9eaac2c947d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-m btn-primary btn-full btn-payment</value>
+      <webElementGuid>c9777c7c-dc7d-4a2a-be0e-6bb01f443e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjutkan ke Pembayaran</value>
+      <webElementGuid>c1da877d-12e5-480c-815b-f2285fdbf8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/section[@class=&quot;container margin-top-m&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-xs-4&quot;]/div[@class=&quot;container-card&quot;]/button[@class=&quot;btn btn-m btn-primary btn-full btn-payment&quot;]</value>
+      <webElementGuid>fd49e7dc-6170-411e-a32b-19a8691c4b7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/div[2]/div/button</value>
+      <webElementGuid>542df0ac-39e6-482b-9638-42cca375b786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total pesanan'])[2]/following::button[1]</value>
+      <webElementGuid>fa94a29d-501c-444d-8a2b-9c97548deaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk yang mungkin Anda suka'])[1]/preceding::button[1]</value>
+      <webElementGuid>37d88355-e452-4b91-8f9e-464fde3637d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan ke Pembayaran']/parent::*</value>
+      <webElementGuid>3d819a56-e1df-41c7-bbcd-25918a4e2b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div/button</value>
+      <webElementGuid>86ee4b97-93ab-4de1-99bb-974d269458ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lanjutkan ke Pembayaran' or . = 'Lanjutkan ke Pembayaran')]</value>
+      <webElementGuid>eec27d28-24ec-478a-951d-85c7eff0f0de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

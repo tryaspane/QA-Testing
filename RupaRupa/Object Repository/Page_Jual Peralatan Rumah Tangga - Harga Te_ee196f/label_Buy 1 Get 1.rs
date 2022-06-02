@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Buy 1 Get 1</name>
+   <tag></tag>
+   <elementGuidId>b3fe40c4-76e0-4ccb-a990-c9d58898abbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='label-content-arrow']/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b59a1363-4cab-4b4d-9874-0939abc62a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-text</value>
+      <webElementGuid>7c2ed071-9818-4a06-9e4f-2bc1bdb8d1cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>label-Buy_1_Get_1</value>
+      <webElementGuid>a39bc279-2328-4ea0-92cc-d66b27bc096f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy 1 Get 1</value>
+      <webElementGuid>aee8ac23-dee3-42d3-ba65-7433c20125d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label-content-arrow&quot;)/div[@class=&quot;checkbox checkbox-primary&quot;]/label[@class=&quot;label-text&quot;]</value>
+      <webElementGuid>bf9e1a50-afb8-4b01-b1ac-829717bea734</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='label-content-arrow']/div[2]/label</value>
+      <webElementGuid>64bbc238-a46a-4b88-a16e-e1ff0ee56bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Offer'])[1]/following::label[1]</value>
+      <webElementGuid>80f4788b-33b1-432f-bec0-b24344c4c3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[2]/following::label[2]</value>
+      <webElementGuid>6288945e-900d-46d3-bf88-df0888b43fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy 2 Get 1'])[1]/preceding::label[1]</value>
+      <webElementGuid>474fd15a-f4a6-4822-896a-f91171916743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy More Save More'])[1]/preceding::label[2]</value>
+      <webElementGuid>862f157c-402d-4b7e-8c20-0093b75770df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy 1 Get 1']/parent::*</value>
+      <webElementGuid>8a9510b3-af5b-42aa-af6f-e7bfc76f6208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[2]/label</value>
+      <webElementGuid>8e9638ea-0f7a-4030-98fd-925b02fb709c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Buy 1 Get 1' or . = 'Buy 1 Get 1')]</value>
+      <webElementGuid>576c577d-329b-44e2-a98c-fba9fcb23949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
